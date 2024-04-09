@@ -1,3 +1,8 @@
 first test change
 123
+<<<<<<< HEAD
 545
+=======
+12355
+6rtghdf7g8jef
+>>>>>>> 6fa442a ('new-test-changes'.)
