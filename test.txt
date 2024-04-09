@@ -1,4 +1,5 @@
 first test change
+<<<<<<< HEAD
 123
 <<<<<<< HEAD
 545
@@ -6,3 +7,9 @@ first test change
 12355
 6rtghdf7g8jef
 >>>>>>> 6fa442a ('new-test-changes'.)
+=======
+second!
+123
+12355
+6rtghdf7g8jef
+>>>>>>> 6fa442afd4fe7eb24d7d4fba0249c29ac7496e3d
